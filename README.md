@@ -1,10 +1,6 @@
-# GenAI Project - SentiScope 
-A Gradio-based UI for BERT-powered sentiment analysis. 
-
-# GenAI Project - SentiScope 
-A Gradio-based UI for BERT-powered sentiment analysis. 
-
 # 🧠 GenAI Project – SentiScope
+
+A Gradio-based UI for BERT-powered sentiment analysis. 
 
 **SentiScope** is an interactive sentiment analysis application built using a BERT-based model and deployed via Gradio. It allows users to input text and receive real-time sentiment predictions such as Positive, Negative, or Neutral.
 
